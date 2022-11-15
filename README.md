@@ -1,0 +1,2 @@
+# chinatelecom_optical_modem
+中国电信光猫通过python做端口绑定
